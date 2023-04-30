@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Adidas Terrex Z",
+    "precio": 42,
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id sollicitudin turpis, quis lobortis mi. Morbi lectus risus, blandit at massa et, pretium dignissim tellus. Suspendisse vitae tempus nisi. Suspendisse lobortis tempor accumsan. Duis a nunc nec justo cursus dignissim quis ut nunc. Vestibulum blandit venenatis cursus. Etiam porta ligula eget ligula ornare mollis. Morbi viverra augue nulla, ac dapibus nibh efficitur quis. Suspendisse et consequat nibh. Curabitur lacus justo, elementum in mi ut, porta rhoncus felis. Etiam sodales consectetur nibh, varius aliquam augue aliquam volutpat. Praesent viverra facilisis vehicula. Praesent efficitur, nulla sed sodales bibendum, eros est feugiat ligula, facilisis vulputate purus sapien ut ipsum. Integer at mattis tellus. Nullam ac faucibus sapien, eget iaculis tellus. Etiam suscipit fermentum turpis, sit amet tempus libero finibus at. "
+  },
+  {
+    "id": 2,
+    "nombre": "Adidas Verga",
+    "precio": 40,
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id sollicitudin turpis, quis lobortis mi. Morbi lectus risus, blandit at massa et, pretium dignissim tellus. Suspendisse vitae tempus nisi. Suspendisse lobortis tempor accumsan. Duis a nunc nec justo cursus dignissim quis ut nunc. Vestibulum blandit venenatis cursus. Etiam porta ligula eget ligula ornare mollis. Morbi viverra augue nulla, ac dapibus nibh efficitur quis. Suspendisse et consequat nibh. Curabitur lacus justo, elementum in mi ut, porta rhoncus felis. Etiam sodales consectetur nibh, varius aliquam augue aliquam volutpat. Praesent viverra facilisis vehicula. Praesent efficitur, nulla sed sodales bibendum, eros est feugiat ligula, facilisis vulputate purus sapien ut ipsum. Integer at mattis tellus. Nullam ac faucibus sapien, eget iaculis tellus. Etiam suscipit fermentum turpis, sit amet tempus libero finibus at. "
+  },
+  {
+    "id": 3,
+    "nombre": "Vanz del orto",
+    "precio": 44,
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id sollicitudin turpis, quis lobortis mi. Morbi lectus risus, blandit at massa et, pretium dignissim tellus. Suspendisse vitae tempus nisi. Suspendisse lobortis tempor accumsan. Duis a nunc nec justo cursus dignissim quis ut nunc. Vestibulum blandit venenatis cursus. Etiam porta ligula eget ligula ornare mollis. Morbi viverra augue nulla, ac dapibus nibh efficitur quis. Suspendisse et consequat nibh. Curabitur lacus justo, elementum in mi ut, porta rhoncus felis. Etiam sodales consectetur nibh, varius aliquam augue aliquam volutpat. Praesent viverra facilisis vehicula. Praesent efficitur, nulla sed sodales bibendum, eros est feugiat ligula, facilisis vulputate purus sapien ut ipsum. Integer at mattis tellus. Nullam ac faucibus sapien, eget iaculis tellus. Etiam suscipit fermentum turpis, sit amet tempus libero finibus at. "
+  }
+]
