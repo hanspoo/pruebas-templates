@@ -1,5 +1,5 @@
 # Pruebas de templates
 
-Generando un poco de html a partir de un array de json, usando finalmente un filewatcher para generar nuevamente el html.
+Generar usando una plantilla por producto, automáticamente un archivo productos.html cada vez que se modique el json.
 
 `ts-node monitor.ts`
